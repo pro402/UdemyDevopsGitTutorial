@@ -114,11 +114,21 @@ This project is licensed under the [MIT License](LICENSE.md). Please refer to th
 ---
 
 Feel free to customize this readme template based on your project's specific needs. Happy coding!
+<<<<<<< HEAD
+
+```markdown
+# Readme Tutorial for Beginners to Advanced
+=======
 # UdemyDevopsGitTutorial
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 '''
 # Readme Tutorial for Beginners to Advanced
 
+>>>>>>> sprint2
 Welcome to the Readme Tutorial! This guide is designed to help beginners understand the basic syntax and best practices for creating a readme file. Whether you're working on a personal project or collaborating with a team, a well-written readme can provide valuable information and improve the overall experience for users and developers alike.
 
 ## Table of Contents
@@ -233,5 +243,17 @@ This project is licensed under the [MIT License](LICENSE.md). Please refer to th
 ---
 
 Feel free to customize this readme template based on your project's specific needs. Happy coding!
+<<<<<<< HEAD
+```
+=======
 # UdemyDevopsGitTutorial
 '''
+>>>>>>> sprint2
+=======
+>>>>>>> parent of 350dab0... modifying README
+=======
+>>>>>>> parent of 350dab0... modifying README
+=======
+>>>>>>> parent of 350dab0... modifying README
+=======
+>>>>>>> parent of 350dab0... modifying README
