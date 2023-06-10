@@ -120,6 +120,7 @@ Feel free to customize this readme template based on your project's specific nee
 # Readme Tutorial for Beginners to Advanced
 =======
 # UdemyDevopsGitTutorial
+<<<<<<< HEAD
 
 '''
 # Readme Tutorial for Beginners to Advanced
@@ -245,3 +246,5 @@ Feel free to customize this readme template based on your project's specific nee
 # UdemyDevopsGitTutorial
 '''
 >>>>>>> sprint2
+=======
+>>>>>>> parent of 350dab0... modifying README
